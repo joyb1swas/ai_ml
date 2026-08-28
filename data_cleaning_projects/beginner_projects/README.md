@@ -1,8 +1,8 @@
-# Titanic Dataset — Data Cleaning & Analysis
+# Beginner Data Cleaning Projects
 
-A simple data cleaning and exploratory analysis project using the **Titanic dataset**.
+A collection of beginner-level projects focused on **data cleaning, basic analysis, and visualization** using Python.
 
-### Tools
+## Tools
 
 * Python
 * NumPy
@@ -10,18 +10,8 @@ A simple data cleaning and exploratory analysis project using the **Titanic data
 * Matplotlib
 * Seaborn
 
-### Work Done
+## Projects
 
-* Loaded and inspected the dataset
-* Handled missing values
-* Cleaned and prepared the data
-* Performed basic analysis
-* Created visualizations to explore the data
+* **Titanic Dataset** — Data cleaning, basic analysis, and visualization using `titanic.csv`.
 
-### Dataset
-
-`titanic.csv`
-
-### Goal
-
-Practice the basic workflow of **data cleaning, analysis, and visualization** using Python.
+More beginner projects will be added as I continue practicing and learning.
