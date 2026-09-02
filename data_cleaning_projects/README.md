@@ -17,5 +17,6 @@ A collection of projects focused on **data cleaning, preprocessing, basic analys
 Beginner-friendly projects for practicing the fundamentals of data cleaning and analysis.
 
 * Titanic Dataset
+* Employee Dataset
 
 More projects will be added as I continue learning and practicing.
