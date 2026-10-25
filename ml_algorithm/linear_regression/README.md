@@ -4,7 +4,7 @@ A simple practice project exploring **Linear Regression** using Scikit-learn.
 
 ## Project
 
-- **`Predict_House`** — Implementing linear regression to predict house prices.
+- **`Predict_House_Price`** — Implementing linear regression to predict house prices.
 
 ## Tools
 
